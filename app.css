@@ -1,0 +1,15 @@
+#board {
+  margin: auto;
+  width: 900px;
+}
+
+#board .cell {
+  float: left
+}
+
+.cell {
+  box-sizing: border-box;
+  border: 1px solid;
+  width: 300px;
+  height: 300px;
+}
